@@ -1,0 +1,14 @@
+<!-start-> 
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<div id="nav">
+您现在的位置：<a href="{#RP#}">{#sitename#}</a> 
+<!-start-> 
+<!-list-> 
+&gt; <a href="{#url#}">{#nav#}</a>
+<!-list->
+<!-con-> 
+&gt; {#nav#}
+<!-con->
+<!-end->
+</div>
+<!-end->
